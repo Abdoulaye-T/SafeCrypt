@@ -55,4 +55,4 @@ Les contributions sont les bienvenues ! Veuillez soumettre un pull request ou ou
 Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
 
 # Remerciements
-Merci à tous ceux qui ont contribué à ce projet !
+Merci à Mr. Madibaba pour son expertises et ses précieux conseils qui m'ont permis de réaliser ce projet !
